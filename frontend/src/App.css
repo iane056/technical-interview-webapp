@@ -1,18 +1,15 @@
 body {
-  margin: 0;
-  padding: 0;
   display: flex;
+  margin-top: 5em;
+  background-color: fff;
   justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  height: auto;
-  background-color: #D3D3D3;
-  color: black;
+  color: #0d062d;
   font-family: Arial, sans-serif;
-  overflow-y: auto;
+  overflow: auto;
 }
 
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
